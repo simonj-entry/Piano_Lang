@@ -9,7 +9,7 @@ js 연습하기 위해 만든 난해한 언어
 2. 코드 위에 Raw 누르기
 3. Windows(Ctrl + s), Mac(Cmd + s)로 다운받기
 4. 다른 js파일과 같은 폴더에 두기
-5. import piano from './piano_lang.js';
+5. 맨위에 다음코드 입력 module.exports = require('./piano');
 6. new piano('명령어')로 사용
 
 ### 주의
