@@ -1,4 +1,4 @@
-class piano{
+export class piano{
     constructor(code){
         this.code = code.replaceAll('\n', ' ');
         this.collect = '';
