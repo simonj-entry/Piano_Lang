@@ -5,7 +5,7 @@ js 연습하기 위해 만든 난해한 언어
 도: 뒤에 다른명령어가 오기전까지의 내용 출력 ex)도ABC도 일때 ABC출력
 
 ### 사용법
-import("https://raw.githack.com/simonj-entry/Piano_Lang/main/main.js");<br>
+import piano from 'https://raw.githack.com/simonj-entry/Piano_Lang/main/main.js';<br>
 new piano('입력할 명령어');
 
 ### 주의
