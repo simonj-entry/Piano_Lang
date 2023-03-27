@@ -3,8 +3,7 @@ class piano{
         this.code = code.replaceAll('\n', ' ');
         this.collect = '';
 
-        this.res1 = this.analyze(this.code);
-        return this.res1;
+        this.analyze(this.code);
     }
 
     types(code){
