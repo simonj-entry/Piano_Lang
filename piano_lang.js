@@ -1,5 +1,3 @@
-'use strict';
-
 class piano{
     constructor(code){
         this.code = code.replaceAll('\n', ' ');
@@ -61,4 +59,3 @@ class piano{
         this.output(data);
     }
 }
-module.exports = piano;
