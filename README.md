@@ -1,4 +1,4 @@
-# Piano_Lang
+# Piano_Lang / ver 0.1
 js 연습하기 위해 만든 난해한 언어
 
 #명령어 목록
