@@ -5,10 +5,12 @@ js 연습하기 위해 만든 난해한 언어
 도: 뒤에 다른명령어가 오기전까지의 내용 출력 ex)도ABC도 일때 ABC출력
 
 ### 사용법
-1. [다운받기](./piano_lang.js)
-2. 다른 js파일과 같은 폴더에 두기
-3. import piano from './piano_lang.js';
-4. new piano('명령어')로 사용
+1. [piano_lang js파일 들어가기](./piano_lang.js)
+2. 코드 위에 Raw 누르기
+3. Windows(Ctrl + s), Mac(Cmd + s)로 다운받기
+4. 다른 js파일과 같은 폴더에 두기
+5. import piano from './piano_lang.js';
+6. new piano('명령어')로 사용
 
 ### 주의
 \n는 오류가 나서 띄어쓰기로 자동 변환되게 해놨습니다.<br>
