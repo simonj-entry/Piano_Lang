@@ -1,4 +1,6 @@
-export class piano{
+'use strict';
+
+class piano{
     constructor(code){
         this.code = code.replaceAll('\n', ' ');
         this.collect = '';
@@ -59,3 +61,4 @@ export class piano{
         this.output(data);
     }
 }
+module.exports = piano;
