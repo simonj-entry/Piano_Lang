@@ -59,3 +59,5 @@ class piano{
         this.output(data);
     }
 }
+
+module.exports = piano;
